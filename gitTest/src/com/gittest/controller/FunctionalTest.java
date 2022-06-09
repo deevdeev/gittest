@@ -8,5 +8,8 @@ public class FunctionalTest {
 	public String getGoodee() {
 		return "goodee";
 	}
+	public int getAge() {
+		return 19;
+	}
 
 }
